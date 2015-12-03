@@ -1,0 +1,4 @@
+/home/pavel/Code/pop/tests/googletest/googlemock/CMakeFiles/gmock.dir
+/home/pavel/Code/pop/tests/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir
+/home/pavel/Code/pop/tests/googletest/googlemock/CMakeFiles/gmock_main.dir
+/home/pavel/Code/pop/tests/googletest/googlemock/gtest/CMakeFiles/gtest.dir
